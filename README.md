@@ -54,3 +54,12 @@
 | user@1001 | Session manager for `sysadmin` | Runs while I'm logged in |
 
 ![Running services after](screenshots/07-running-services-after.png)
+
+
+## Step 8: Audit and prove the result
+
+Stage				Hardening index
+
+Fresh install (Step 2)		62
+After Steps 3-7			67
+After 3 Lynis fixes		68
